@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto Construído do vento Next Level Week da Rocketseat.
+Projeto desenvolvido no vento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://augustoshoiti.github.io/nlw-esports/)
 
